@@ -6,9 +6,9 @@ import exercise7.WeightMars;
 
 public class List {
 	public List(){
-		WeightMars wom1 = new WeightMars(60);
-		WeightMars wom2 = new WeightMars(65);
-		WeightMars wom3 = new WeightMars(70);
+		WeightMars wom1 = new WeightMars(47);
+		WeightMars wom2 = new WeightMars(50);
+		WeightMars wom3 = new WeightMars(80);
 
 		ArrayList<WeightMars> weightlist = new ArrayList<WeightMars>();
 
