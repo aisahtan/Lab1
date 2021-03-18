@@ -13,5 +13,13 @@ public class Location {
 	public void setFname(String name) {
 		this.fname = name;
 	}
+
+	public int getLocationId() {
+		return locationId;
+	}
+
+	public void setLocationId(int locationId) {
+		this.locationId = locationId;
+	}
 	
 }
